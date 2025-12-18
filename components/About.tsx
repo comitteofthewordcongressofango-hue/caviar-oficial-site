@@ -28,7 +28,7 @@ const About: React.FC = () => {
               <span className="text-[10px] uppercase tracking-widest text-white/50 italic font-bold">Eventos Realizados</span>
             </div>
             <div className="group">
-              <span className="block text-4xl font-serif-premium text-[#D4AF37] mb-2">185</span>
+              <span className="block text-4xl font-serif-premium text-[#D4AF37] mb-2">385</span>
               <span className="text-[10px] uppercase tracking-widest text-white/50 italic font-bold">Clientes Atendidos</span>
             </div>
           </div>

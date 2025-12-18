@@ -43,9 +43,9 @@ const Hero: React.FC = () => {
             href={instagramUrl} 
             target="_blank" 
             rel="noopener noreferrer" 
-            className="btn-premium px-12 py-5 text-[11px] uppercase tracking-[0.4em] shadow-2xl"
+            className="btn-premium px-8 py-4 md:px-12 md:py-5 text-[10px] md:text-[11px] uppercase tracking-[0.3em] md:tracking-[0.4em] shadow-2xl"
           >
-            <span className="flex items-center">Ver Portfólio <span className="ml-4">→</span></span>
+            <span className="flex items-center">Ver Portfólio <span className="ml-3 md:ml-4">→</span></span>
           </a>
         </div>
       </div>
